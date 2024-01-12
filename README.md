@@ -15,3 +15,6 @@ Após criar essas pastas, o programa move os arquivos AutoMonitor-Part1.bat e Au
 
 Uma vez em funcionamento, o sistema registra os logs e exibe na tela a qualquer momento em que ocorra um erro.
 
+![image](https://github.com/pehaalmeida/Automatic-Monitor-CMD/assets/53100349/48363927-894b-4843-bc71-58a2f737bf51)
+
+
